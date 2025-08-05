@@ -6,7 +6,3 @@ jupyter
 scikit-learn
 scipy
 statsmodels
-xgboost
-lightgbm
-tensorflow
-keras
